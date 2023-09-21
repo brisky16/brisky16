@@ -1,16 +1,15 @@
-### Hi there 👋
+### boas vindas ao meu perfil 💙
 
-<!--
-**brisky16/brisky16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Leticia Brisky
 
-Here are some ideas to get you started:
+-Estou estudando no alura
+-Estou me desenvolvendo na limguagem javascript
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvovidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo💙
+
+leticia.brisky.cavalheiro@escola.pr.gov.br
+
+@leticiabrisky
+
+  ![](https://media.tenor.com/9Te1NRPN8ysAAAAC/sad-sorry.gif)
