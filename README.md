@@ -1,4 +1,4 @@
-### boas vindas ao meu perfil 💙
+### Seja bem vindas ao meu perfil 💙
 
 Meu nome é Leticia Brisky
 
